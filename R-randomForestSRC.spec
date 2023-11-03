@@ -5,7 +5,7 @@
 #
 Name     : R-randomForestSRC
 Version  : 3.2.2
-Release  : 16
+Release  : 17
 URL      : https://cran.r-project.org/src/contrib/randomForestSRC_3.2.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/randomForestSRC_3.2.2.tar.gz
 Summary  : Fast Unified Random Forests for Survival, Regression, and
