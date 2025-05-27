@@ -1,5 +1,5 @@
 PKG_NAME := R-randomForestSRC
-URL = https://ftp.osuosl.org/pub/cran/src/contrib/randomForestSRC_3.3.3.tar.gz
+URL = https://ftp.osuosl.org/pub/cran/src/contrib/randomForestSRC_3.4.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
